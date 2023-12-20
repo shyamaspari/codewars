@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://artifactory.rd2.thingworx.io/artifactory/codebeamer-maven-remote" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="internal" />
+      <option name="name" value="Axeda Maven/Ivy Repository" />
+      <option name="url" value="https://artifactory.rd2.thingworx.io/artifactory/axeda-virtual-repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="internal-public" />
+      <option name="name" value="Axeda Maven/Ivy Repository" />
+      <option name="url" value="https://artifactory.rd2.thingworx.io/artifactory/axeda-public-repo" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+  </component>
+</project>
